@@ -1,4 +1,11 @@
-# MAG AI
+# SABELAR AI
+
+**Private Artificial Intelligence Engine**
+
+> Modelo de linguagem executado no próprio servidor, isolado da rede dos demais sistemas.
+>
+> **A Vladson Labs Project** · Developed by Vladson Bezerra
+> Participação autoral: Arquitetura, integração e operação. Os modelos e o motor de inferência são de terceiros.
 
 IA local e centralizada da MAG Móveis Corporativos na VPS: um Ollama só com CPU (`qwen3.5:0.8b-q8_0`) atrás de um
 gateway interno com chave por aplicação, limites e fila única. Primeiro cliente: BIOMIE v2.
